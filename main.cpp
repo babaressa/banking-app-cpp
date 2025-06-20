@@ -16,7 +16,7 @@ class Bank
    {
        cout<<endl;
        cout<<"\t~~~~~~~~~~~~~~~~~~~~~~~~"<<endl;
-       cout<<"\t| NEW ACCOUNT testing |"<<endl;
+       cout<<"\t| NEW ACCOUNT OPENING |"<<endl;
        cout<<"\t~~~~~~~~~~~~~~~~~~~~~~~~"<<endl;
        cout<<endl;
        y:
